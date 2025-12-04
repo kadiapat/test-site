@@ -1,5 +1,5 @@
 collections_config:
-  commercial:
+  surge:
     path: surge
     icon: camera
     url: /[slug]
