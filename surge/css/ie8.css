@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body {
+	overflow-y: hidden !important;
+}
+.navbar-nav li a {
+	font-size: 12px !important;
+}
+.quoter .TitleStyle5 {
+	font-size: 32px !important;
+}
+.carousel-control {
+	top: 80px !important;
+}
+.right.carousel-control, .left.carousel-control {
+	width: auto !important;
+	background: none !important;
+	filter: none !important;
+}
+.caroufredsel_wrapper img {
+	width: 176px !important;
+	height: 55px !important;
+}
+
+.caroufredsel_wrapper{
+width:auto !important;
+}
+#agency-logo{
+width:auto;
+}
+.logo-anchor{
+margin:7px 0 7px 0;
+display:block;
+}
